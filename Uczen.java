@@ -9,7 +9,6 @@ public class Uczen {
 
         // Oceny uczeni1
         System.out.println("Wyniki Moniki");
-        System.out.println("Srednia ocen Moniki to " + uczen1.oceny[1]);
         System.out.println("Srednia ocen Moniki to " + uczen1.srednia());
         System.out.println(" Najniższa ocena Moniki to " + uczen1.OcenaMin());
         System.out.println("Najwyższa ocena Moniki to " + uczen1.OcenaMax());
